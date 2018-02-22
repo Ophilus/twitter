@@ -1,0 +1,19 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "See who you follow",
+  "main": "twitter.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "twitter",
+    "tweet"
+  ],
+  "author": "Vadim Gryn",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "twitter": "^1.7.1"
+  }
+}
